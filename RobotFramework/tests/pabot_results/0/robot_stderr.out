@@ -1,0 +1,8 @@
+[ ERROR ] Error in file 'C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\PageObject\LandingPage.robot' on line 6: Setting 'Test Setup' is not allowed in resource file.
+[ ERROR ] Error in file 'C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\PageObject\LandingPage.robot' on line 8: Resource file 'resource.robot' does not exist.
+[ ERROR ] Error in file 'C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\PageObject\ShopPage.robot' on line 6: Setting 'Test Setup' is not allowed in resource file.
+[ ERROR ] Error in file 'C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\PageObject\ShopPage.robot' on line 8: Resource file 'resource.robot' does not exist.
+[ ERROR ] Error in file 'C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\PageObject\CheckoutPage.robot' on line 6: Setting 'Test Setup' is not allowed in resource file.
+[ ERROR ] Error in file 'C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\PageObject\CheckoutPage.robot' on line 8: Resource file 'resource.robot' does not exist.
+[ ERROR ] Error in file 'C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\PageObject\ConfirmationPage.robot' on line 6: Setting 'Test Setup' is not allowed in resource file.
+[ ERROR ] Error in file 'C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\PageObject\ConfirmationPage.robot' on line 8: Resource file 'resource.robot' does not exist.

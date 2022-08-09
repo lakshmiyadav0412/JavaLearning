@@ -1,0 +1,23 @@
+==============================================================================
+Test1 :: To validate the Login Form                                           
+==============================================================================
+Validate succesful Login                                                
+  Traceback (most recent call last):
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\tests\Test1.robot:19
+    T:  Validate succesful Login    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\tests\Test1.robot:22
+      verify error message is correct    
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    File  C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\tests\Test1.robot:36
+      Should Be Equal As Strings    ${result}    Incorrect useme/password.
+      |  ${result} = Incorrect username/password. (str)
+______________________________________________________________________________
+| FAIL |
+Incorrect username/password. != Incorrect useme/password.
+------------------------------------------------------------------------------
+Test1 :: To validate the Login Form                                   | FAIL |
+1 test, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\LakshmiYadav\IdeaProjects\RobotFramework\tests\pabot_results\0\output.xml

@@ -1,0 +1,5 @@
+datasources:f616d7dbc76182ec80d0756aad44a90b200ee748
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:e4d7309abcaad190d6030581fc28907ff6a8666f
+--test Test1.Validate succesful Login
